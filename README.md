@@ -4,7 +4,7 @@
 
 # Application of Algorithm
 
-- This basic algorithm finds application in every system that might randomly want to group a given sample data into two parts for some specific temporary or parmanent task.
+- This basic algorithm finds application in every system that might randomly want to group a given sample data into two parts for some specific temporary or permanent task.
 - While currently in my NYCS Program, I set up this algorithm basically to group the men in the male-hostel randomly into two
   groups basically for discharge of duties one group after another.
 
